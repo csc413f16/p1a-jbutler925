@@ -1,6 +1,8 @@
-Name:
+Name: Jordan Eric Butler
 
 Compilation and Run Successful:
+My compilation and runs were successful after correctly updating Android Studio
+and adding the correct gitHub path
 
 Unit Test Run Successfully:
 
